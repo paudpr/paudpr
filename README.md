@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z6uc5o00160gmmkqt8wruc/stats?cursusId=21&coalitionId=66" alt="dlerma-c's 42 stats" /></a> -->
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=paudpr&count_private=true&show_icons=true&theme=dark">
+   <!--  <img src="https://github-readme-stats.vercel.app/api?username=paudpr&count_private=true&show_icons=true&theme=dark"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paudpr&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark"/>
 </div>
 
