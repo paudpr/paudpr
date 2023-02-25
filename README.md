@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 👩‍💻 I’m currently learning software development with C/C++, Python and JavaScript
 - 📫 How to reach me: pdel-pin@student.42madrid.com
-- ⚡ Fun fact: My cat is incredibly fat. I'll show you pictures
+- ⚡ Fun fact: My cat is so fat. Beware, I'll show you pictures
 -  📜 My past as a designer and architect: <a href="https://paudpr.github.io/paudpr.github.io-portfolio/index.html" target="_blank" >check my portfolio
 
  
